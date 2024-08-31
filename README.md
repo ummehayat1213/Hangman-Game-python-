@@ -1,2 +1,2 @@
-# Hangman-Game-python-
-This is a simple Hangman game using Python programming language. The Hangman program randomly selects a secret word from a list of secret words. The random module will provide this ability, so line 1 in program imports it. 
+# Python-Projects-For-Biggners
+Explore my Python projects, perfect for beginners! These projects focus on building fundamental skills in programming, data analysis, and problem-solving. From simple calculators and quizzes to interactive games and data visualizations, my projects are designed to help you learn Python basics, gain hands-on experience, and develop a solid foundation in coding
